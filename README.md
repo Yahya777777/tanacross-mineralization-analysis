@@ -1,6 +1,6 @@
 # Mineralization Analysis in the Tanacross Area (Alaska)
 
-This repository contains a Jupyter Notebook that explores **mineralization patterns** in the Tanacross area of Alaska using sediment geochemical data.
+This repository contains a Jupyter Notebook that explores **Au (gold) and Cu (copper) mineralization patterns** in the Tanacross area of Alaska using sediment geochemical data.
 
 ## Dataset
 
